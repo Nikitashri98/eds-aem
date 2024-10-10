@@ -261,3 +261,7 @@ main .section.highlight {
   color: darkred;
 }
 
+.carousel-wrapper picture img{
+  width: 100%;
+}
+
