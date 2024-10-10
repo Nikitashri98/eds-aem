@@ -260,3 +260,7 @@ main .section.highlight {
   text-align: center;
   color: darkred;
 }
+
+.logo{
+  color: green;
+}
