@@ -265,3 +265,7 @@ main .section.highlight {
   width: 100%;
 }
 
+.body {
+  background-color: aqua;
+}
+
