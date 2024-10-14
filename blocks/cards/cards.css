@@ -5,7 +5,8 @@
   display: grid;
  /*  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));*/
   grid-template-columns: repeat(2, 1fr);
-  color: aqua;
+  background-image: yellow;
+  color: crimson;
   grid-gap: 24px;
 }
 
